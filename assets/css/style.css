@@ -101,6 +101,8 @@
 /*================================================================================*/
 
 
+
+
 #img-hover:hover{
     transition: transform .4s;
     transform: scale(1.2);
@@ -2259,6 +2261,11 @@ Footer Section style
 }
 
 @media (max-width: 992px) {
+    
+    .container{
+    padding-left: 30px;
+    padding-right: 30px;
+}
     
     
 	.navbar-expand-md .navbar-toggler {
