@@ -546,7 +546,7 @@ ul {
 /*all overlay*/
 
 .overlay {
-	background-color: rgba(51, 51, 51, 0.30);
+	background-color: rgba(51, 51, 51, 0);
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -1334,8 +1334,8 @@ Home Section style
 
 .main_home {
 	overflow: hidden;
-	padding-top: 300px;
-	padding-bottom: 230px;
+	margin-top: 300px;
+	margin-bottom: 230px;
 	position: relative;
 	z-index: 1;
 }
