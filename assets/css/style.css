@@ -546,7 +546,7 @@ ul {
 /*all overlay*/
 
 .overlay {
-	background-color: rgba(51, 51, 51, 0);
+	background-color: rgba(51, 51, 51, 0.5);
 	position: absolute;
 	left: 0;
 	top: 0;
