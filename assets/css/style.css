@@ -102,6 +102,16 @@
 
 
 
+.sub-heading-workEg{
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+    padding-bottom: 40px;
+    color: black;
+    font-weight: bold;
+    text-decoration:underline;
+}
+
 
 #img-hover:hover{
     transition: transform .4s;
