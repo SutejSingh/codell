@@ -101,6 +101,9 @@
 /*================================================================================*/
 
 
+.padding{
+    padding-bottom: 40px;
+}
 
 .sub-heading-workEg{
     text-align: center;
