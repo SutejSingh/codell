@@ -16,6 +16,46 @@
  14. FOOTER - LINE NO 2020
 ==========================================*/
 
+.quoteBox{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.getQuote{
+    font-size: 2em;
+    font-weight: 500;
+    color: black;
+    
+}
+
+.quotePara{
+    font-size: 0.7em;
+    line-height: 1.6;
+    
+}
+
+.contactUsColor{
+    color: #ff6863;
+}
+
+.experiment{
+    background-color: white;
+    padding: 40px;
+    -moz-box-shadow: 0px 6px 10px rgba(118, 118, 118, 0.5);
+    -webkit-box-shadow: 0px 6px 10px rgba(118, 118, 118, 0.5);
+    box-shadow: 0px 6px 10px rgba(118, 118, 118, 0.5);
+}
+
+.underConstruction{
+    text-align: center;
+    align-content: center;
+    padding-bottom: 40px;
+}
+
+.Puran{
+    padding-bottom: 40px;
+}
+
 /* ==========================================================================*/
 
 /* Team Section
@@ -109,7 +149,7 @@
     text-align: center;
     align-content: center;
     font-size: 18px;
-    padding-bottom: 40px;
+
     color: black;
     font-weight: bold;
     text-decoration:underline;
